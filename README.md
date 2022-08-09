@@ -1,4 +1,4 @@
 # marketing-criativo
 LANDING PAGE COM HTML E CSS
+![image](https://user-images.githubusercontent.com/90639040/183689021-0d27eb4c-f2bd-4580-9ee0-8908b9104f5b.png)
 
-![image](https://user-images.githubusercontent.com/90639040/183688916-a8632247-39f2-4685-b8c7-b123dce03bb6.png)
